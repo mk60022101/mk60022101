@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**mk60022101/mk60022101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
